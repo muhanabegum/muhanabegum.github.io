@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Muhana Begum's Web Portfolio</title>
+  <link href="assets/img/favicon.png" rel="icon">
+  <meta content="" name="descriptison">
+  <meta content="" name="keywords">
+
+
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+        
+
+<nav class="navbar navbar-expand-sm navbar-custom sticky-top mt-5">
+  <div class="topnav" id="myTopnav">
+           <a class="navbar-brand" href="index.html">MUHANA BEGUM</a>
+           <a href="#hero"></i>Home</a>
+           <a href="#about">About Me</a>
+           <a href="#skills">My Skills</a>
+           <a href="#education">Education</a>
+           <a href="#work">Work</a>
+           <a href="#contact">Contact Me</a>
+           <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a> 
+  </div>
+</nav>
+
+</head>
+
+<body>
+ <section id="hero">
+  <section class="d-flex align-items-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 d-lg-flex flex-lg-column justify-content-center align-items-stretch pt-5 pt-lg-0 order-2 order-lg-1">
+          <div data-aos="fade-up">
+            <h1>MUHANA BEGUM</h1>
+            <div class="typewriter" >
+            <h2>Student, Developer, UI/UX Designer</h2>
+          </div>
+          <div class="section-title">
+            <h5> Welcome To My Web Portfolio </h5>
+          </div>
+          <div class="text-center">
+            <a href="https://www.linkedin.com/in/muhana-begum/'" class="download-btn"> LinkedIn </a>
+            <a href="assets/img/Resume.pdf" class="download-btn"> Resume </a>
+          </div>
+
+          </div>
+        </div>
+        <div class="col-lg-6 d-lg-flex flex-lg-column align-items-stretch order-1 order-lg-2 hero-img" >
+          <img src="assets/img/FrontPage.png" data-aos="fade-up" class="img-fluid" alt="">
+        </div>
+      </div>
+    </div>
+</section>
+  </section>
+
+  <main id="main">
+    <section id="about" class="features">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h6>Hi, I'm Muhana</h6>
+        </div>
+
+        <div class="row no-gutters">
+          <div class="col-xl-7 d-flex align-items-stretch order-2 order-lg-1">
+            <div class="content d-flex flex-column justify-content-center">
+              <div class="row">
+                <div class="col-md-6 icon-box" data-aos="fade-up">
+                  <i class="bx bx-code-block" style="color: #0000A0"></i>
+                  <h4>Web Developer</h4>
+                  <p>Front-end development has become a passion of mine where I love seeing my ideas and designs come to life on a screen. </p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <i class="bx bx-cube-alt" style="color: #0000A0"></i>
+                  <h4>UI/UX Designer</h4>
+                  <p>With an interest in modern tech design, I aspire to learn more about graphical design and typography to contribute onto my own works and others. </p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <i class="bx bx-line-chart" style="color: #0000A0"></i>
+                  <h4>Problem-Solver</h4>
+                  <p>Always a curious thinker, I aspire to continue feeding my interests in order to create well-developed solutions. </p>
+                </div>
+                <div class="col-md-6 icon-box"data-aos="fade-up" data-aos-delay="100">
+                  <i class="bx bxs-quote-left" style="color: #0000A0"></i>
+                  <h4>Presenter</h4>
+                  <p>With a passion in speaking in front of large crowds, I love talking to others about topics that I have a great interest in. </p>
+                </div>
+                <div class="col-md-6 icon-box"data-aos="fade-up" data-aos-delay="100">
+                  <i class="bx bx-atom" style="color: #0000A0"></i>
+                  <h4>STEM Enthusiast</h4>
+                  <p>As someone who was very fortunate to be able to have numerous STEM opportunities, I loving giving back and being a mentor. </p>
+                </div>
+                <div class="col-md-6 icon-box"data-aos="fade-up" data-aos-delay="100">
+                  <i class="bx bx-world" style="color: #0000A0"></i>
+                  <h4>Environmentalist</h4>
+                  <p> By pursuing a degree in electrical engineering, I hope to create solutions where renewable energy can become the norm for all applications. </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="image col-xl-5 d-flex align-items-stretch justify-content-center order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/img/Contact1.jpg" class="img-fluid" alt="">
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <section id="skills" class="details">
+      <div class="container">
+
+        <div class="row content">
+          <div class="col-md-4 justify-content-center">
+            <img src="assets/img/SecondPage1.png" class="img-fluid" alt="" data-aos="fade-up" data-aos-delay="100">
+          </div>
+          <div class="col-md-8 pt-4" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="section-title">Languages and Technologies</h3>
+            <p data-aos="fade-up" data-aos-delay="100">
+              Finishing up my first year of university, I have one year experience in the following programming languages:
+            </p>
+            <ul data-aos="fade-up" data-aos-delay="100">
+              <li><i class="bx bx-code-alt" style="color: #0000A0" ></i> Front-End Development: <span class="orange-text"> HTML, CSS, JavaScript, PHP, Ruby, Bootstrap, WordPress </span></li>
+              <li><i class="bx bx-code-alt" style="color: #0000A0"></i> Taught from University: <span class="orange-text"> C/C++ </span></li>
+              <li><i class="bx bx-code-alt" style="color: #0000A0"></i>Beginner Level: <span class="orange-text"> Python </span></li>
+              <li><i class="bx bx-code-alt" style="color: #0000A0"></i> Intermediate Level: <span class="orange-text">VHDL </span></li>
+              <li><i class="bx bx-code-alt" style="color: #0000A0"></i> Intermediate Level:<span class="orange-text"> Visual Basic 6.0</span></li>
+            </ul>
+            <p data-aos="fade-up" data-aos-delay="100">
+              I also have advanced skills in <span class="orange-text">Microsoft Excel </span> along with work experience using <span class="orange-text">VBA, AutoCAD and SOLIDWORKS </span>. 
+            </p>
+          </div>
+        </div>
+<section id="education">
+        <div class="row content" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-md-4 order-1 order-md-2" data-aos="fade-up" data-aos-delay="100">
+            <img src="assets/img/uWaterloo.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="section-title">Bachelor of Applied Science - Electrical Engineering (Co-op)</h3>
+            <p data-aos="fade-up" data-aos-delay="100">
+              As I have just finished up my first year, I can defintely say that is has been quite an experience. 
+            </p>
+            <p data-aos="fade-up" data-aos-delay="100">
+              In my first term, I took courses such as <span class="orange-text"> ECE150: Fundamentals of Programming in C++ </span> where I learned about memory management, pointers, classes, and arrays which allowed me to pursue programming and create my own projects. 
+            </p>
+            <p data-aos="fade-up" data-aos-delay="100">  
+              My second term at uWaterloo was where I really got to experience hands-on learning with circuits. In both <span class="orange-text"> ECE124: Digital Circuits </span> and <span class="orange-text"> ECE140: Linear Circuits </span> I was able to build circuits using a breadboard and also digitally using <span class="orange-text"> VHDL </span>.  
+            </p>
+            <p data-aos="fade-up" data-aos-delay="100"> 
+              Through my extracurriculars, I enjoyed being an <span class="orange-text"> Electrical & Computer Engineering Ambassador </span>. I loved being able to share my experiences, thoughts, struggles and accomplishments to benefit high school students wanting to pursue engineering. 
+            </p>
+          </div>
+        </div>
+      </section>
+<section id="work">
+        <div class="row content">
+          <div class="image col-xl-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+            <img src="assets/img/ThirdPage.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-8 pt-5 align-items-stretch order-1 order-lg-2">
+            <h3 class="section-title" data-aos="fade-up" data-aos-delay="100">Work & Experience</h3>
+            <p data-aos="fade-up" data-aos-delay="100">Throughout high school, I loved to put myself out there in the world and immerse myself in technology. My previous positions include: </p>
+            <ul>
+              <li data-aos="fade-up" data-aos-delay="100"><i class="bx bx-briefcase-alt" style="color: #0000A0"></i>Communicating with industry professionals and sponsors as <span class="orange-text"> Outreach Director </span> for my high school robotics team. </li>
+              <li data-aos="fade-up" data-aos-delay="100"><i class="bx bx-briefcase-alt" style="color: #0000A0" ></i> Creating lessons for elementary school students to learn <span class="orange-text"> LEGO robotics </span> at The Yonge Street Mission's computer programs/camps.</li>
+              <li data-aos="fade-up" data-aos-delay="100"><i class="bx bx-briefcase-alt" style="color: #0000A0" ></i> Editing drafts on AutoCAD as a <span class="orange-text"> student intern </span> for Nemetz(S/A) & Associates firm publications.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+<section id="contact">
+        <div class="row content" data-aos="fade-up" data-aos-delay="100">
+          <div class="image col-lg-5 d-flex align-items-stretch order-1 order-md-2" data-aos="fade-up" data-aos-delay="100">
+            <img src="assets/img/Img3.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 pt-5 order-2 order-md-1">
+            <h3 class="section-title" data-aos="fade-up" data-aos-delay="100">Connect With Me! <br> I am always seeking opportunities to apply my skills and expand my knowledge </h3>
+            <p data-aos="fade-up" data-aos-delay="100">
+              As part of a co-op program, I am always looking for <span class="orange-text">internships </span> where I can apply my knowledge in <span class="orange-text">web development </span> and/or <span class="orange-text">electrical engineering fundamentals </span>. I am always eager to learn and would love to be under any sort of <span class="orange-text">mentorship </span> to help me grow. 
+            </p>
+            <p data-aos="fade-up" data-aos-delay="100"> Don't hesistate to contact me if you are interested in chatting about my skills or getting to know me better. I would also love to chat with anyone wanting to pursue engineering or STEM and share my experiences with you! Reach me at <span class="orange-text"> muhana.begum@hotmail.com </span>. </p>
+          </div>
+        </div>
+
+      </div>
+</section>
+    </section>
+
+  </main>
+
+  <footer id="footer">
+    <div class="container py-4">
+      <div class="copyright">
+        <strong><span>MUHANA BEGUM'S WEB PORTFOLIO</span></strong>
+        <div class="text-center">
+             <p><strong> Add me on <a href="https://www.linkedin.com/in/muhana-begum/"><strong>LinkedIn</strong></a>
+              or download my <a href="assets/img/Resume.pdf"><strong>Resume</strong></a></strong></p>
+        </div>
+      </div>
+      <div class="credits">
+        <strong>Thanks for visiting!</strong>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
