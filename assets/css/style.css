@@ -411,7 +411,7 @@ h4{
 }
 
 #popout2{
-   box-shadow: 7px 7px 12px #41414a, -10px -10px 15px  #FFFFFF;
+   box-shadow: 10px 10px 20px #41414a, -10px -10px 20px #FFFFFF;
    padding:  60px 30px;
    border-radius: 30px;
    background-color: #3B8471;
