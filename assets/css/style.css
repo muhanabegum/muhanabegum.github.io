@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
   }
   #hero .download-btn + .download-btn {
-    margin: 0 10px;
+    margin: 0 5px;
   }
   #hero .hero-img {
     text-align: center;
@@ -122,26 +122,17 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 800px) {
   #hero h1 {
-    font-size: 48px;
+    font-size: 45px;
     line-height: 36px;
   }
   #hero h2 {
-    font-size: 19px;
+    font-size: 16px;
     line-height: 24px;
     margin-bottom: 30px;
   }
   #hero h5 {
-    font-size: 30px;
+    font-size: 25px;
     line-height: 36px;
-  }
-  #hero .hero-img img {
-    width: 80%;
-  }
-}
-
-@media (max-width: 600px) {
-  #hero .hero-img img {
-    width: 90%;
   }
 }
 
