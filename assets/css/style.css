@@ -102,37 +102,34 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .download-btn + .download-btn {
-  margin-left: 50px; 
+  margin-left: 10px; 
+  margin-top: 10px;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 780px) {
   #hero {
     text-align: center;
   }
-  #hero .download-btn + .download-btn {
-    margin: 0 5px;
-  }
-  #hero .hero-img {
-    text-align: center;
-  }
-  #hero .hero-img img {
-    width: 60%;
+  #hero .download-btn {
+    padding: 5px 10px;
+    font-size: 15px;
+    align-items: center; 
   }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 780px) {
   #hero h1 {
-    font-size: 45px;
-    line-height: 36px;
+    font-size: 40px;
+    line-height: 43px;
   }
   #hero h2 {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 12px;
+    line-height: 15px;
     margin-bottom: 30px;
   }
   #hero h5 {
-    font-size: 25px;
-    line-height: 36px;
+    font-size: 20px;
+    line-height: 15px;
   }
 }
 
@@ -358,15 +355,16 @@ h4{
   position: relative;
   border: none;
   color: white;
-  padding: 5px 10px;
+  padding: 3px 8px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 15px;
+  font-size: 13px;
   cursor: pointer;
-  border-radius: 45px;
+  border-radius: 20px;
   box-shadow: 5px 5px 10px #8b8b99, -5px -5px 10px  #FFFFFF;
   background-color: #3B8471;
+  margin-right: 5px;
   margin-top: 10px;
 }
 
