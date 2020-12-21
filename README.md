@@ -10,7 +10,7 @@ The first section is the main page where I tried to keep it as simple and clean 
 ![image1](https://github.com/muhanabegum/muhanabegum.github.io/blob/master/img1.PNG)
 
 Contrary to typical neumorphism design, I decided to switch things up with the colours so there was some variety. 
-![image1](https://github.com/muhanabegum/muhanabegum.github.io/blob/master/img2.PNG)
+![image1](https://github.com/muhanabegum/muhanabegum.github.io/blob/master/image2.PNG)
 
 The final section includes all my projects. For more of my projects, check out my other repositories!
 ![image1](https://github.com/muhanabegum/muhanabegum.github.io/blob/master/img3.PNG)
